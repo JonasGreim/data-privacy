@@ -1,0 +1,16 @@
+ conda create --name myenv python=3.7
+ conda activate myenv
+ conda install pandas==0.25
+ conda install matplotlib
+
+
+
+
+
+ PLZ nur ranges oder surpression
+ Mittelwerte behalten -> ranges als string speichern (min, max)
+
+
+
+ erstaml ready mit einnnkommen machen -> danach optimierung
+ erkären und readMe schreiben

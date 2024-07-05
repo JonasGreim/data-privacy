@@ -1,6 +1,7 @@
 # K-Anonymity, L-diversity, T-closeness on numerical or categorial Data
+look into "data-privacy-methods.ipynb" -> results are pre-rendered
 
-## Setup
+## own setup
 - install conda 
 - conda create --name myenv python=3.7
 - conda activate myenv

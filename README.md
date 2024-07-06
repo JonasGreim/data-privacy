@@ -12,3 +12,13 @@ Look into [data-privacy-methods.ipynb](./data-privacy-methods.ipynb) -> results 
 - run the jupyter notebook
 #
 - change privacy methods parameter (kAnonym, lDivers, tClose)
+- you can choose if your numeric data partitions should be displayed as a range or as an average
+- categorial data are always displayed as unique sets
+#
+#### You can also add another display function like suppression 
+- in "Enter dataset & privacy parameters"
+    - add dataColumnDisplayedDifferently = set(('YourChosenColumn',))
+- in the "Generating anonymous Dataset" section:
+    - add your custom function there
+- in build_anonymized_dataset() function:
+    - add an ifel condition for your dataColumnDisplayedDifferently set

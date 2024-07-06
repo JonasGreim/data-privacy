@@ -1,5 +1,5 @@
-# K-Anonymity, L-diversity, T-closeness on numerical or categorial Data
-Look into [data-privacy-methods.ipynb](./data-privacy-methods.ipynb) -> results are pre-rendered
+# K-Anonymity, L-Diversity, T-Closeness on numerical or categorial Data
+Look into this jupyther notebook [data-privacy-methods.ipynb](./data-privacy-methods.ipynb) -> results are pre-rendered
 
 ## own setup
 - install conda 
